@@ -1,0 +1,22 @@
+Timestamp,Field of Study,Academic Degree,"Experience in Python (1 - no exp, 3 - quite comfortable with it, 5 - actively using it for at least a year)","Experience in Programming (1 - loops and controls, 3 -  OOP and/or data structures and algorithms, 5 - app development, deployment, dev ops) ","Experience in Machine Learning (1 - no exp, 3 - quite comfortable with it, 5 - actively doing it for at least a year)","Proficiency in Linear Algebra (1 - no exp, 3 - basic matrix operations, 5 - eigenvectors, SVD)","Proficiency in Probability and Statistics (1 - basic understanding of probabilities, 3 - descriptive statistics, 5 - hypothesis testing)",Were you able to solve Problem 1: List Manipulation?,Were you able to solve Problem 2: Loops and Controls?,Were you able to solve Problem 3: Numpy?,Were you able to solve Problem 4: Pandas?,Were you able to solve Problem 5: Matplotlib?,Were you able to solve Problem 6: Hourglass ASCII Art?,Were you able to solve Problem 7: Multiples of 3 or 5?,Were you able to solve Problem 8: Fibonacci?
+2021/06/24 10:33:12 AM GMT+8,Engineering,BS Manufacturing Engineering and Management w Specialization in Mechatronics and Robotics Engineering,3,3,2,3,4,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2021/06/24 10:46:17 AM GMT+8,Engineering,BS - Mechanical Engineering with specialization in Mechatronics Engineering,5,2,3,5,5,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+2021/06/24 10:48:22 AM GMT+8,Computer Science / IT,BS in Computer Science - Software Technology ,3,4,2,2,1,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+2021/06/24 10:53:03 AM GMT+8,Computer Science / IT,BS in Information Systems,2,3,1,2,3,No,No,No,No,No,No,No,No
+2021/06/24 11:11:26 AM GMT+8,Liberal Arts,AB International Studies- Major in European Studies,3,2,1,1,4,No,No,Yes,No,No,No,No,No
+2021/06/24 12:31:29 PM GMT+8,"Business, Finance, Accounting;Economics",BS Applied Economics major in Industrial Economics and BS Business Management,2,2,1,4,5,Yes,Yes,No,Yes,No,No,No,No
+2021/06/24 12:36:08 PM GMT+8,Engineering,BS in Industrial Engineering ,2,1,1,3,5,Yes,No,No,No,No,No,No,No
+2021/06/24 2:17:15 PM GMT+8,"Business, Finance, Accounting",BS in Business Management,2,2,1,3,4,Yes,Yes,No,Yes,No,No,No,Yes
+2021/06/24 3:01:50 PM GMT+8,Computer Science / IT,BS in Computer Science,4,4,3,2,2,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2021/06/24 4:00:58 PM GMT+8,"Computer Science / IT;Engineering;Business, Finance, Accounting",BS Interdisciplinary Business Studies,5,4,5,3,4,Yes,Yes,Yes,Yes,No,No,Yes,No
+2021/06/24 4:03:51 PM GMT+8,"Business, Finance, Accounting",BS in Business Management,1,1,1,2,3,Yes,Yes,No,Yes,No,No,No,No
+2021/06/24 5:15:20 PM GMT+8,Computer Science / IT,BS in Computer Science Major in Software Technology,3,3,3,3,2,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2021/06/24 6:57:21 PM GMT+8,Computer Science / IT,BS Interactive Entertainment Major in Game Development,3,5,1,5,4,Yes,Yes,Yes,Yes,No,Yes,No,No
+2021/06/25 11:21:21 AM GMT+8,Computer Science / IT;Engineering,BS Computer Engineering,3,3,2,4,4,Yes,No,No,No,No,No,No,No
+2021/06/25 11:23:35 AM GMT+8,Economics,BS in Applied Economics major in Industrial Economics,2,2,2,4,5,Yes,Yes,No,Yes,No,No,Yes,No
+2021/06/25 12:41:30 PM GMT+8,"Business, Finance, Accounting",BS in Applied Corporate Management,2,1,1,2,5,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+2021/06/25 1:21:00 PM GMT+8,"Business, Finance, Accounting;Economics",BS Applied Economics Major in Financial Economics,3,2,1,4,5,Yes,Yes,No,No,No,Yes,Yes,Yes
+2021/06/25 3:10:28 PM GMT+8,Economics,AB in Economics,2,1,1,2,3,No,No,No,Yes,No,No,No,No
+2021/06/25 6:58:52 PM GMT+8,Computer Science / IT,BS Computer Science - Software Technology,3,4,2,2,2,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+2021/06/25 7:12:51 PM GMT+8,Engineering,BS in Industrial Engineering,2,2,1,4,5,Yes,No,No,No,No,No,No,No
+2021/06/25 9:36:28 PM GMT+8,Engineering,BS in Industrial Engineering,4,3,3,5,5,Yes,Yes,Yes,Yes,No,No,Yes,No
